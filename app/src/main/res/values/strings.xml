@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">LoginFire</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">KMK</string>
+    <string name="second_fragment_label">Home</string>
+
+    <string name="signup_account_already_exist"><u>Already Have Account</u></string>
+
+    <string name="login_create_account"><u>Create New Acount</u></string>
+    <string name="login_forgot_password"><u>Forgot Password?</u></string>
 </resources>
