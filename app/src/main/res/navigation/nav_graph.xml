@@ -31,7 +31,7 @@
     <fragment
         android:id="@+id/Singup"
         android:name="mx.tec.loginfire.Singup"
-        android:label="fragment_singup"
+        android:label="@string/third_fragment_label"
         tools:layout="@layout/fragment_singup" >
         <action
             android:id="@+id/SingupToLogin"
