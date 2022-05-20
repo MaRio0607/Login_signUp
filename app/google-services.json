@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "974433941186",
-    "project_id": "fir-login-6bee2",
-    "storage_bucket": "fir-login-6bee2.appspot.com"
+    "project_number": "331267374805",
+    "project_id": "kmk-2022",
+    "storage_bucket": "kmk-2022.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:974433941186:android:25d2af2e875282cc20ed5b",
+        "mobilesdk_app_id": "1:331267374805:android:c8aab82de8b061516d2c5c",
         "android_client_info": {
           "package_name": "mx.tec.loginfire"
         }
       },
       "oauth_client": [
         {
-          "client_id": "974433941186-5hnm8m6492s87k6ubif6ujl4rm50rlns.apps.googleusercontent.com",
+          "client_id": "331267374805-gjllm0jqiegnt7l12kpbmli979snfh0u.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDq8koWfT6xFQBfRGzjaNl7X_laSChyyOg"
+          "current_key": "AIzaSyDQH9OZmXJdamGla-vLB0v43feorrjhHCY"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "974433941186-5hnm8m6492s87k6ubif6ujl4rm50rlns.apps.googleusercontent.com",
+              "client_id": "331267374805-gjllm0jqiegnt7l12kpbmli979snfh0u.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

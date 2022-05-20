@@ -6,6 +6,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.navigation.fragment.findNavController
+import com.google.firebase.auth.FirebaseAuth
 import mx.tec.loginfire.databinding.FragmentHomeBinding
 
 /**
@@ -33,6 +34,7 @@ class HomeFragment : Fragment() {
         super.onViewCreated(view, savedInstanceState)
 
         binding.logout.setOnClickListener {
+            FirebaseAuth.getInstance().signOut()
             findNavController().navigate(R.id.HometoLogin)
         }
     }
