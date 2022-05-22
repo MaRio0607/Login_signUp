@@ -10,7 +10,6 @@
         android:name="mx.tec.loginfire.LoginFragment"
         android:label="@string/first_fragment_label"
         tools:layout="@layout/fragment_login">
-
         <action
             android:id="@+id/LoginToHome"
             app:destination="@id/Home" />

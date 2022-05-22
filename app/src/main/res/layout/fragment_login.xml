@@ -22,7 +22,6 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent">
 
-
             <TextView
                 android:id="@+id/textView"
                 android:layout_width="wrap_content"
@@ -121,7 +120,6 @@
                 app:layout_constraintStart_toStartOf="@+id/btnLogin"
                 app:layout_constraintTop_toBottomOf="@+id/btnLogin" />
         </androidx.constraintlayout.widget.ConstraintLayout>
-
 
     </ScrollView>
 </androidx.constraintlayout.widget.ConstraintLayout>
