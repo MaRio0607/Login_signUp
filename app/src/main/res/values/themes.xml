@@ -18,6 +18,10 @@
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
     </style>
+    
+    <style name="SplashTheme" parent="Theme.LoginFire">
+        <item name="android:windowBackground">@drawable/splashscreen</item>
+    </style>
 
     <style name="Theme.LoginFire.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
