@@ -89,7 +89,7 @@ class LoginFragment : Fragment() {
 
         binding.btnLogin.setOnClickListener {
             setUp()
-            biometricPrompt.authenticate(promptInfo)
+            if (userEmail.isNotEmpty()) biometricPrompt.authenticate(promptInfo)
         }
         binding.signup.setOnClickListener {
             findNavController().navigate(R.id.LoginToSingup)
